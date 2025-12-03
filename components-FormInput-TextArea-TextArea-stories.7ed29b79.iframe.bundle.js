@@ -1,0 +1,4 @@
+"use strict";(self.webpackChunk_purity_design_system=self.webpackChunk_purity_design_system||[]).push([[2620],{"./src/components/FormInput/TextArea/TextArea.stories.ts":(__unused_webpack_module,__webpack_exports__,__webpack_require__)=>{__webpack_require__.r(__webpack_exports__),__webpack_require__.d(__webpack_exports__,{TextArea:()=>TextArea,__namedExportsOrder:()=>__namedExportsOrder,default:()=>__WEBPACK_DEFAULT_EXPORT__});let __WEBPACK_DEFAULT_EXPORT__={component:__webpack_require__("./src/components/index.ts").fs,title:"designsystem/TextArea",tags:["autodocs"],argTypes:{},args:{label:"Name",placeholder:"Copy of Test Dashboard",rows:5,cols:50}};var TextArea={args:{}};TextArea.parameters={...TextArea.parameters,docs:{...TextArea.parameters?.docs,source:{originalSource:`{
+  args: {}
+}`,...TextArea.parameters?.docs?.source}}};let __namedExportsOrder=["TextArea"]}}]);
+//# sourceMappingURL=components-FormInput-TextArea-TextArea-stories.7ed29b79.iframe.bundle.js.map
