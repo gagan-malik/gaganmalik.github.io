@@ -64,7 +64,7 @@ Before or after deployment, customize:
 
 ### Update Personal Info (`index.html`)
 
-1. **Email**: Replace `gaganmalik@example.com` with your real email
+1. **Email**: Already set to `contact@gaganmalik.co.uk` (or update if needed)
 2. **LinkedIn**: Update the LinkedIn URL if different
 3. **About section**: Modify the bio text
 4. **Projects**: Add/remove/edit project cards

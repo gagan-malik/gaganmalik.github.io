@@ -144,7 +144,7 @@ Edit `styles.css` to customize:
 
 ## 📝 Notes
 
-- Replace `gaganmalik@example.com` with your actual email address
+- Email is already set to `contact@gaganmalik.co.uk`
 - Update LinkedIn URL if different
 - Add/remove projects as needed
 - Customize colors to match your brand
