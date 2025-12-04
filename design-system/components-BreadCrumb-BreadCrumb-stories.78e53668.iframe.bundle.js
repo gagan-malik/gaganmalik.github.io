@@ -1,0 +1,6 @@
+"use strict";(self.webpackChunk_purity_design_system=self.webpackChunk_purity_design_system||[]).push([[9255],{"./src/components/BreadCrumb/BreadCrumb.stories.ts":(__unused_webpack_module,__webpack_exports__,__webpack_require__)=>{__webpack_require__.r(__webpack_exports__),__webpack_require__.d(__webpack_exports__,{BreadCrumbBasic:()=>BreadCrumbBasic,__namedExportsOrder:()=>__namedExportsOrder,default:()=>__WEBPACK_DEFAULT_EXPORT__});let __WEBPACK_DEFAULT_EXPORT__={component:__webpack_require__("./src/index.ts").YZ,title:"designsystem/BreadCrumb",tags:["autodocs"],argTypes:{list:{control:"array"}},args:{list:[{name:"Workspaces",link:"/"},{name:"Blue Dolphin 775",link:"http://localhost:6006/?path=/docs/designsystem-breadcrumb--docs"},{name:"Test-Vikas"}]}};var BreadCrumbBasic={args:{variant:"filled"}};BreadCrumbBasic.parameters={...BreadCrumbBasic.parameters,docs:{...BreadCrumbBasic.parameters?.docs,source:{originalSource:`{
+  args: {
+    variant: "filled"
+  }
+}`,...BreadCrumbBasic.parameters?.docs?.source}}};let __namedExportsOrder=["BreadCrumbBasic"]}}]);
+//# sourceMappingURL=components-BreadCrumb-BreadCrumb-stories.78e53668.iframe.bundle.js.map
